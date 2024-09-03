@@ -1,0 +1,33 @@
+---
+title: "Shengyi Li"
+image: "profile.jpg"
+links:
+  - label:  '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
+    url: "https://www.linkedin.com/in/shengyi-l-7b358324b/"
+  - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
+    url: "https://github.com/ShengyiLi1123"
+  - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
+    url: "mailto:shengyili1123@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## <span style="color:  #030303;"> `r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` Bio</span>
+
+|  |  |
+|:------------------------------------------------------------------|
+| Shengyi Li studies Biostatistics at Johns Hopkins University. Her research interests lie in developing statistical tools to solve health-related problems.
+---
+
+
+## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#030303")` Education</span>
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #030303;"> Johns Hopkins University, Maryland, US </span>** | [2024 - 2026]{style="float:right"}  |
+| <span style="color: #545454;"> ScM in Biostatistics </span> | [📍🇺🇸]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> University of Nottingham, Nottingham, UK </span>** | [2022 - 2024]{style="float:right"} |
+| <span style="color: #545454;"> BSc Hons Statistics </span> | [📍🇬🇧]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> University of Nottingham, Ningbo, China </span>** | [2020 - 2022]{style="float:right"} |
+| <span style="color: #545454;"> BSc Hons Statistics </span> | [📍🇨🇳]{style="float:right"} ||
